@@ -10,6 +10,7 @@ This repository documents my journey of learning and practicing DSA using Python
 - Strings
 - Hashing
 - Two Pointers
+- Sliding Window
 - Stack
 - Queue
 - Binary Search
